@@ -4,7 +4,7 @@
 
 #### 1. 下载zip文件并解压
 
-![image0](figue\image0.png)
+![image0](figue/image0.png)
 
 #### 2. 下载数据集
 
@@ -18,7 +18,7 @@ https://pan.baidu.com/s/1VW5egNuh3_cb5oKy9GsJsw?pwd=cpsc
 
 
 
-![image3](figue\image3.png)
+![image3](figue/image3.png)
 
 #### 3. 环境
 
@@ -26,13 +26,13 @@ https://pan.baidu.com/s/1VW5egNuh3_cb5oKy9GsJsw?pwd=cpsc
 
 必须要在`ECG_AF_Net-master`目录下！！！
 
-![image1](figue\image1.png)
+![image1](figue/image1.png)
 
 确保你的电脑安装了`pyhton`
 
 同时可能需要安装一些第三方包，比如`torch` 、`h5py`等，根据报错下载缺失的库（最好使用国内镜像源，速度更快，格式：`pip install 包名 -i https://pypi.tuna.tsinghua.edu.cn/simple`）
 
-![image2](figue\image2.png)
+![image2](figue/image2.png)
 
 ```bash
 # 例如下载torch库与h5py库
