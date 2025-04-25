@@ -1,0 +1,2 @@
+traindata为训练集，其中traindata前500条数据标签为房颤；taindata的501-1000条数据标签为非房颤；从1001条开始为无标签数据；
+testdata为测试集。
